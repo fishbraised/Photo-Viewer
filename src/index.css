@@ -1,0 +1,21 @@
+html {
+  font-size: 62.5%;
+  color-scheme: dark light;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+/* img,
+picture,
+svg,
+video {
+  display: block;
+} */
